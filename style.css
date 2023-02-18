@@ -1,0 +1,77 @@
+body {
+    margin: 8px;
+    padding: 10px;
+    background-image: url(https://images.pexels.com/photos/15076755/pexels-photo-15076755.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load); 
+    background-size:cover;
+    background-repeat: no-repeat;  
+    background-position: center;
+}
+h1{
+    text-align: center;
+    font-size: 1.4rem;
+    color: green;
+    font-family: Tahoma;
+}
+#links {
+    color: green;
+    font-family: 'Trebuchet MS';
+    text-align: right;
+    list-style: none;  
+
+}
+#div1{
+    font-family: Tahoma;
+    font-variant: small-caps;
+    font-size: 18px;
+    color: black;
+}
+.Names{
+    font-weight: lighter;
+    font-style:normal;
+    color: black;
+    border-radius: 10px; 
+    border-top-right-radius: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 10px;
+    display: grid;
+    width :fit-content;
+    height: fit-content;
+}
+
+ul  {
+    text-align:justify ;
+    color: green;
+    background-color: rgb(11, 212, 169);
+    display:list-item;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 10px;
+    list-style: none;
+    padding: 2%;
+    margin: 0%;
+    font-family: Tahoma;
+}
+h3 {
+    color: Green;
+    font-family: Tahoma;
+    font-size: 100%;
+    font-variant: small-caps;
+}
+p {
+    background-color: white;
+    font-variant: small-caps;
+    color: green;
+    display: inline-block;
+    font-family: Tahoma;    
+}
+strong{
+    text-decoration: none;
+    display:flex;
+    text-align: center !important; 
+    color:rgb(11, 212, 169);
+}
